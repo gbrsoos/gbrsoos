@@ -12,10 +12,10 @@ My works cover the following areas:
 Welcome to my portfolio, where I showcase my [projects](https://github.com/gbrsoos/Portfolio/blob/main/README.md).
 
 🛠️ Tools
-Language: SQL, Python, R
-Database: Google BigQuery, PostgreSQL
-Visualization: Tableau, Looker Studio
-Familiar Python Packages: numpy, pandas, SciPy, TensorFlow
+- Language: SQL, Python, R
+- Database: Google BigQuery, PostgreSQL
+- Visualization: Tableau, Looker Studio
+- Familiar Python Packages: numpy, pandas, SciPy, TensorFlow
 
 [LinkedIn](https://linkedin.com/in/soosgabor12)
 
