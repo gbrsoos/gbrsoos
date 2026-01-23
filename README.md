@@ -15,7 +15,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/gbrso
 - Language: SQL, Python, R
 - Database: Google BigQuery, PostgreSQL
 - Visualization: Tableau, Looker Studio
-- Familiar Python Packages: numpy, pandas, SciPy, TensorFlow
+- Familiar Python Packages: numpy, pandas, SciPy, PyTorch
 
 [LinkedIn](https://linkedin.com/in/soosgabor12)
 
